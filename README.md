@@ -6,6 +6,7 @@ Welcome to Doctor Recommendor App! This application evaluates user symptoms and 
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Flask, MongoDB
+- **ML Model**: Python, Pandas, Scikit-learn, NLTK
 
 ## Installation
 

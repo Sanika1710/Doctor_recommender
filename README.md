@@ -40,7 +40,7 @@ Welcome to Doctor Recommendor App! This application that evaluates user symptoms
 4. Set up environment variables:
 
     - Create a `.env` file in each directory (`frontend`, `backend`, and `doctor_flask`) and add necessary environment variables.
-    - In the backend `.env` file, add the MongoDB URI as `MONGO_URI`.
+    - In the backend `.env` file, add the MongoDB URI as `MONGODB_URI`.
 
 5. Run the development servers:
 

@@ -50,11 +50,11 @@ Welcome to Doctor Recommendor App! This application that evaluates user symptoms
     npm run dev
 
     # For backend
-    cd ../backend
+    cd backend
     node index.js
 
     # For Flask API
-    cd ../doctor_flask
+    cd doctor_flask
     flask --app app run --port 4000
     ```
 

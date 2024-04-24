@@ -1,6 +1,6 @@
 # Doctor Recommendor App
 
-Welcome to Doctor Recommendor App! This application that evaluates user symptoms and provides suggestions them with doctors who are specialized in relevant fields and have compatible schedules.
+Welcome to Doctor Recommendor App! This application evaluates user symptoms and suggests them with doctors who are specialized in relevant fields and are compatible with their schedules.
 
 ## Technologies Used
 
